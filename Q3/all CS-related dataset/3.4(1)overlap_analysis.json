@@ -1,0 +1,10 @@
+{
+  "max_word_overlap_pair": [
+    -1,
+    2
+  ],
+  "max_semantic_similarity_pair": [
+    -1,
+    1
+  ]
+}
